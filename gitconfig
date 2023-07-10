@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api
-	name = Jean Conseil conseiljean@gmail.com
+	email = conseiljean@gmail.com
+	name = Jean Consei
